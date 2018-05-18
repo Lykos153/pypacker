@@ -1,5 +1,5 @@
 """
-Checksum logic vor various protocols.
+Checksum logic for various protocols.
 """
 import array
 import socket
